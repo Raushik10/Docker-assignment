@@ -3,7 +3,7 @@
 ## Project Structure
 - **Frontend:** Node.js + Express (port 3000)
 - **Backend:** Flask (port 5000)
-- Saves submitted form data into **data.txt** (no MongoDB)
+- Saves submitted form data into **data.txt** 
 
 ## Run using Docker Compose
 ```bash
